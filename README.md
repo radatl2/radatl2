@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @radatl2
-- 👀 I’m interested in relating CoPilot type AI assistants to software engineering methods and tools
-- 🌱 I’m currently getting familiar with cybersecurity implications of CoPilot
-- 💞️ I’m looking to collaborate on integrating AI into existing reserach
+- 👋 Hi, I’m @radatl2. You can reach me at my Georgia Tech address
+
 - 📫 Reach me at rad@gatech.edu
 
 <!---
